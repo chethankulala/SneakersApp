@@ -1,0 +1,902 @@
+[
+  {
+    "id": "1a2345b6-789c-1d23-4e56-7f89a012b345",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-01-01",
+    "retailPrice": 150,
+    "styleId": "NK123456",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 Black/White",
+    "title": "Classic Edition",
+    "year": 2022
+  },
+  {
+    "id": "2b3456c7-890d-2e34-5f67-8a90b123c456",
+    "brand": "Adidas",
+    "colorway": "Blue/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-02-15",
+    "retailPrice": 120,
+    "styleId": "AD789012",
+    "shoe": "Superstar",
+    "name": "Superstar Blue/Green",
+    "title": "Limited Edition",
+    "year": 2022
+  },
+  {
+    "id": "3c4567d8-901e-3f45-6g78-9a01c234d567",
+    "brand": "Jordan",
+    "colorway": "Red/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-03-20",
+    "retailPrice": 180,
+    "styleId": "J123456",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 Red/Black",
+    "title": "High OG",
+    "year": 2022
+  },
+  {
+    "id": "4d5678e9-012f-4a56-7b89-0c12d345e678",
+    "brand": "Puma",
+    "colorway": "Yellow/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-04-10",
+    "retailPrice": 100,
+    "styleId": "PU789012",
+    "shoe": "Cali",
+    "name": "Cali Yellow/White",
+    "title": "Summer Edition",
+    "year": 2022
+  },
+  {
+    "id": "5e6789f0-123g-5h67-8i90-1j23k456l789",
+    "brand": "Reebok",
+    "colorway": "Purple/Pink",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-05-25",
+    "retailPrice": 80,
+    "styleId": "RB123456",
+    "shoe": "Classic Leather",
+    "name": "Classic Leather Purple/Pink",
+    "title": "Casual Vibes",
+    "year": 2022
+  },
+  {
+    "id": "6f7890a1-234g-6h78-9i01-2j34k567l890",
+    "brand": "Converse",
+    "colorway": "White/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-06-15",
+    "retailPrice": 70,
+    "styleId": "CV789012",
+    "shoe": "Chuck Taylor All Star",
+    "name": "Chuck Taylor White/Black",
+    "title": "Classic Canvas",
+    "year": 2022
+  },
+  {
+    "id": "7g8901h2-345i-7j89-0k12-3l45m6789a0",
+    "brand": "New Balance",
+    "colorway": "Grey/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-07-05",
+    "retailPrice": 130,
+    "styleId": "NB123456",
+    "shoe": "990v5",
+    "name": "990v5 Grey/Blue",
+    "title": "Heritage Collection",
+    "year": 2022
+  },
+  {
+    "id": "8i9012j3-456k-8l90-1m23-4n5678o90p1",
+    "brand": "Vans",
+    "colorway": "Checkerboard/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "1a2345b6-789c-1d23-4e56-7f89a012b345",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-01-01",
+    "retailPrice": 150,
+    "styleId": "NK123456",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 Black/White",
+    "title": "Classic Edition",
+    "year": 2022
+  },
+  {
+    "id": "2b3456c7-890d-2e34-5f67-8a90b123c456",
+    "brand": "Adidas",
+    "colorway": "Blue/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-02-15",
+    "retailPrice": 120,
+    "styleId": "AD789012",
+    "shoe": "Superstar",
+    "name": "Superstar Blue/Green",
+    "title": "Limited Edition",
+    "year": 2022
+  },
+  {
+    "id": "3c4567d8-901e-3f45-6g78-9a01c234d567",
+    "brand": "Jordan",
+    "colorway": "Red/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-03-20",
+    "retailPrice": 180,
+    "styleId": "J123456",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 Red/Black",
+    "title": "High OG",
+    "year": 2022
+  },
+  {
+    "id": "4d5678e9-012f-4a56-7b89-0c12d345e678",
+    "brand": "Puma",
+    "colorway": "Yellow/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-04-10",
+    "retailPrice": 100,
+    "styleId": "PU789012",
+    "shoe": "Cali",
+    "name": "Cali Yellow/White",
+    "title": "Summer Edition",
+    "year": 2022
+  },
+  {
+    "id": "5e6789f0-123g-5h67-8i90-1j23k456l789",
+    "brand": "Reebok",
+    "colorway": "Purple/Pink",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-05-25",
+    "retailPrice": 80,
+    "styleId": "RB123456",
+    "shoe": "Classic Leather",
+    "name": "Classic Leather Purple/Pink",
+    "title": "Casual Vibes",
+    "year": 2022
+  },
+  {
+    "id": "6f7890a1-234g-6h78-9i01-2j34k567l890",
+    "brand": "Converse",
+    "colorway": "White/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-06-15",
+    "retailPrice": 70,
+    "styleId": "CV789012",
+    "shoe": "Chuck Taylor All Star",
+    "name": "Chuck Taylor White/Black",
+    "title": "Classic Canvas",
+    "year": 2022
+  },
+  {
+    "id": "7g8901h2-345i-7j89-0k12-3l45m6789a0",
+    "brand": "New Balance",
+    "colorway": "Grey/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-07-05",
+    "retailPrice": 130,
+    "styleId": "NB123456",
+    "shoe": "990v5",
+    "name": "990v5 Grey/Blue",
+    "title": "Heritage Collection",
+    "year": 2022
+  },
+  {
+    "id": "8i9012j3-456k-8l90-1m23-4n5678o90p1",
+    "brand": "Vans",
+    "colorway": "Checkerboard/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "1a2345b6-789c-1d23-4e56-7f89a012b345",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-01-01",
+    "retailPrice": 150,
+    "styleId": "NK123456",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 Black/White",
+    "title": "Classic Edition",
+    "year": 2022
+  },
+  {
+    "id": "2b3456c7-890d-2e34-5f67-8a90b123c456",
+    "brand": "Adidas",
+    "colorway": "Blue/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-02-15",
+    "retailPrice": 120,
+    "styleId": "AD789012",
+    "shoe": "Superstar",
+    "name": "Superstar Blue/Green",
+    "title": "Limited Edition",
+    "year": 2022
+  },
+  {
+    "id": "3c4567d8-901e-3f45-6g78-9a01c234d567",
+    "brand": "Jordan",
+    "colorway": "Red/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-03-20",
+    "retailPrice": 180,
+    "styleId": "J123456",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 Red/Black",
+    "title": "High OG",
+    "year": 2022
+  },
+  {
+    "id": "4d5678e9-012f-4a56-7b89-0c12d345e678",
+    "brand": "Puma",
+    "colorway": "Yellow/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-04-10",
+    "retailPrice": 100,
+    "styleId": "PU789012",
+    "shoe": "Cali",
+    "name": "Cali Yellow/White",
+    "title": "Summer Edition",
+    "year": 2022
+  },
+  {
+    "id": "5e6789f0-123g-5h67-8i90-1j23k456l789",
+    "brand": "Reebok",
+    "colorway": "Purple/Pink",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-05-25",
+    "retailPrice": 80,
+    "styleId": "RB123456",
+    "shoe": "Classic Leather",
+    "name": "Classic Leather Purple/Pink",
+    "title": "Casual Vibes",
+    "year": 2022
+  },
+  {
+    "id": "6f7890a1-234g-6h78-9i01-2j34k567l890",
+    "brand": "Converse",
+    "colorway": "White/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-06-15",
+    "retailPrice": 70,
+    "styleId": "CV789012",
+    "shoe": "Chuck Taylor All Star",
+    "name": "Chuck Taylor White/Black",
+    "title": "Classic Canvas",
+    "year": 2022
+  },
+  {
+    "id": "7g8901h2-345i-7j89-0k12-3l45m6789a0",
+    "brand": "New Balance",
+    "colorway": "Grey/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-07-05",
+    "retailPrice": 130,
+    "styleId": "NB123456",
+    "shoe": "990v5",
+    "name": "990v5 Grey/Blue",
+    "title": "Heritage Collection",
+    "year": 2022
+  },
+  {
+    "id": "8i9012j3-456k-8l90-1m23-4n5678o90p1",
+    "brand": "Vans",
+    "colorway": "Checkerboard/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "1a2345b6-789c-1d23-4e56-7f89a012b345",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-01-01",
+    "retailPrice": 150,
+    "styleId": "NK123456",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 Black/White",
+    "title": "Classic Edition",
+    "year": 2022
+  },
+  {
+    "id": "2b3456c7-890d-2e34-5f67-8a90b123c456",
+    "brand": "Adidas",
+    "colorway": "Blue/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-02-15",
+    "retailPrice": 120,
+    "styleId": "AD789012",
+    "shoe": "Superstar",
+    "name": "Superstar Blue/Green",
+    "title": "Limited Edition",
+    "year": 2022
+  },
+  {
+    "id": "3c4567d8-901e-3f45-6g78-9a01c234d567",
+    "brand": "Jordan",
+    "colorway": "Red/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-03-20",
+    "retailPrice": 180,
+    "styleId": "J123456",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 Red/Black",
+    "title": "High OG",
+    "year": 2022
+  },
+  {
+    "id": "4d5678e9-012f-4a56-7b89-0c12d345e678",
+    "brand": "Puma",
+    "colorway": "Yellow/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-04-10",
+    "retailPrice": 100,
+    "styleId": "PU789012",
+    "shoe": "Cali",
+    "name": "Cali Yellow/White",
+    "title": "Summer Edition",
+    "year": 2022
+  },
+  {
+    "id": "5e6789f0-123g-5h67-8i90-1j23k456l789",
+    "brand": "Reebok",
+    "colorway": "Purple/Pink",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-05-25",
+    "retailPrice": 80,
+    "styleId": "RB123456",
+    "shoe": "Classic Leather",
+    "name": "Classic Leather Purple/Pink",
+    "title": "Casual Vibes",
+    "year": 2022
+  },
+  {
+    "id": "6f7890a1-234g-6h78-9i01-2j34k567l890",
+    "brand": "Converse",
+    "colorway": "White/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-06-15",
+    "retailPrice": 70,
+    "styleId": "CV789012",
+    "shoe": "Chuck Taylor All Star",
+    "name": "Chuck Taylor White/Black",
+    "title": "Classic Canvas",
+    "year": 2022
+  },
+  {
+    "id": "7g8901h2-345i-7j89-0k12-3l45m6789a0",
+    "brand": "New Balance",
+    "colorway": "Grey/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-07-05",
+    "retailPrice": 130,
+    "styleId": "NB123456",
+    "shoe": "990v5",
+    "name": "990v5 Grey/Blue",
+    "title": "Heritage Collection",
+    "year": 2022
+  },
+  {
+    "id": "8i9012j3-456k-8l90-1m23-4n5678o90p1",
+    "brand": "Vans",
+    "colorway": "Checkerboard/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "1a2345b6-789c-1d23-4e56-7f89a012b345",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-01-01",
+    "retailPrice": 150,
+    "styleId": "NK123456",
+    "shoe": "Air Max 90",
+    "name": "Air Max 90 Black/White",
+    "title": "Classic Edition",
+    "year": 2022
+  },
+  {
+    "id": "2b3456c7-890d-2e34-5f67-8a90b123c456",
+    "brand": "Adidas",
+    "colorway": "Blue/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-02-15",
+    "retailPrice": 120,
+    "styleId": "AD789012",
+    "shoe": "Superstar",
+    "name": "Superstar Blue/Green",
+    "title": "Limited Edition",
+    "year": 2022
+  },
+  {
+    "id": "3c4567d8-901e-3f45-6g78-9a01c234d567",
+    "brand": "Jordan",
+    "colorway": "Red/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-03-20",
+    "retailPrice": 180,
+    "styleId": "J123456",
+    "shoe": "Air Jordan 1",
+    "name": "Air Jordan 1 Red/Black",
+    "title": "High OG",
+    "year": 2022
+  },
+  {
+    "id": "4d5678e9-012f-4a56-7b89-0c12d345e678",
+    "brand": "Puma",
+    "colorway": "Yellow/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-04-10",
+    "retailPrice": 100,
+    "styleId": "PU789012",
+    "shoe": "Cali",
+    "name": "Cali Yellow/White",
+    "title": "Summer Edition",
+    "year": 2022
+  },
+  {
+    "id": "5e6789f0-123g-5h67-8i90-1j23k456l789",
+    "brand": "Reebok",
+    "colorway": "Purple/Pink",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-05-25",
+    "retailPrice": 80,
+    "styleId": "RB123456",
+    "shoe": "Classic Leather",
+    "name": "Classic Leather Purple/Pink",
+    "title": "Casual Vibes",
+    "year": 2022
+  },
+  {
+    "id": "6f7890a1-234g-6h78-9i01-2j34k567l890",
+    "brand": "Converse",
+    "colorway": "White/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-06-15",
+    "retailPrice": 70,
+    "styleId": "CV789012",
+    "shoe": "Chuck Taylor All Star",
+    "name": "Chuck Taylor White/Black",
+    "title": "Classic Canvas",
+    "year": 2022
+  },
+  {
+    "id": "7g8901h2-345i-7j89-0k12-3l45m6789a0",
+    "brand": "New Balance",
+    "colorway": "Grey/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-07-05",
+    "retailPrice": 130,
+    "styleId": "NB123456",
+    "shoe": "990v5",
+    "name": "990v5 Grey/Blue",
+    "title": "Heritage Collection",
+    "year": 2022
+  },
+  {
+    "id": "8i9012j3-456k-8l90-1m23-4n5678o90p1",
+    "brand": "Vans",
+    "colorway": "Checkerboard/Black",
+    "gender": "Unisex",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  },
+  {
+    "id": "9k0123l4-567m-9n01-2o34-5p6789q01r2",
+    "brand": "Under Armour",
+    "colorway": "Red/Grey",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "smallImageUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)",
+      "thumbUrl": "https://media.jdsports.com/i/jdsports/FN6843_100_P1?$default$&w=671&&h=671&bg=rgb(237,237,237)"
+    },
+    "releaseDate": "2022-08-20",
+    "retailPrice": 65,
+    "styleId": "VN789012",
+    "shoe": "Old Skool",
+    "name": "Old Skool Checkerboard/Black",
+    "title": "Skate Edition",
+    "year": 2022
+  }
+]
