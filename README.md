@@ -48,3 +48,6 @@ Kotlin
 MVVM
 Room
 Glide 
+
+## Demo Video
+![untitled](https://github.com/chethankulala/SneakersApp/assets/51992258/6477206f-dcd2-4119-a1a9-968c24e9379c)
