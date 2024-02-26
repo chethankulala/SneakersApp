@@ -111,9 +111,9 @@ class SneakerDetailsFragment : Fragment() {
     private fun startObservingLiveData() {
         viewModel.insertSuccessOrFailLiveData?.observe(viewLifecycleOwner, Observer {
             if (it == AppConstant.INSERT_ITEM_SUCCESS) {
-                Toast.makeText(requireContext(), "Item Deleted Successfully", Toast.LENGTH_LONG).show()
+                Toast.makeText(requireContext(), "Item Added Successfully", Toast.LENGTH_LONG).show()
             } else {
-                Toast.makeText(requireContext(), "Item not Deleted", Toast.LENGTH_LONG).show()
+                Toast.makeText(requireContext(), "Item not Added", Toast.LENGTH_LONG).show()
             }
         })
     }

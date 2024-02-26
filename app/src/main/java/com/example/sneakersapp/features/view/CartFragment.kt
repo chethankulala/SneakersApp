@@ -83,11 +83,19 @@ class CartFragment : Fragment() {
 
     private fun startObservingLiveData() {
         viewModel.sneakersFromCart.observe(viewLifecycleOwner, Observer {
-            adapter?.updateList(it)
+            if (it.isEmpty()) {
+                showEmptyLayout()
+            } else {
+                binding.linearLayout.visibility = View.VISIBLE
+                binding.llCartRecyclerview.visibility = View.VISIBLE
+                binding.llNoList.visibility = View.GONE
+                adapter?.updateList(it)
+            }
         })
         viewModel.deleteSuccessOrFailLiveData?.observe(viewLifecycleOwner, Observer {
             if (it == AppConstant.DELETE_ITEM_SUCCESS) {
                 Toast.makeText(requireContext(), "Item Deleted Successfully", Toast.LENGTH_LONG).show()
+                viewModel.getSneakersAddedToCart()
             } else {
                 Toast.makeText(requireContext(), "Item not Deleted", Toast.LENGTH_LONG).show()
             }
@@ -97,6 +105,12 @@ class CartFragment : Fragment() {
             val total = it + 40
             binding.tvTotalValue.text = "$" + " " + total.toString()
         })
+    }
+
+    private fun showEmptyLayout() {
+        binding.linearLayout.visibility = View.GONE
+        binding.llCartRecyclerview.visibility = View.GONE
+        binding.llNoList.visibility = View.VISIBLE
     }
 
     private fun setUpViewModel() {
