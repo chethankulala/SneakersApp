@@ -69,7 +69,7 @@ class HomeFragment : Fragment() {
         binding.rvSneakers.adapter = adapter
         adapter?.setOnItemClickListener {
 
-            addReplaceFragment(SneakerDetailsFragment.newInstance(it), false, false)
+            addReplaceFragment(SneakerDetailsFragment.newInstance(it), true, true)
         }
     }
 

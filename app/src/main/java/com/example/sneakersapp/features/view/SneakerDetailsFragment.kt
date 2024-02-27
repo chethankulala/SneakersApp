@@ -120,7 +120,7 @@ class SneakerDetailsFragment : Fragment() {
 
     private fun updateUi() {
         sneaker?.let {
-            binding.tvSneakerTittle.text = it.shoe
+            binding.tvSneakerTittle.text = it.shoe + " " + it.year
             binding.tvSneakerPriceValue.text = "$" + " " + it.retailPrice.toString()
 
             when(it.size) {

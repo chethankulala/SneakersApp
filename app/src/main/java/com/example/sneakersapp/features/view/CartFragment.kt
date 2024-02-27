@@ -123,7 +123,7 @@ class CartFragment : Fragment() {
                     viewModel.deleteSneakerItem(sneaker.id)
                 }
                 else -> {
-                    addReplaceFragment(SneakerDetailsFragment.newInstance(sneaker), false, false)
+                    addReplaceFragment(SneakerDetailsFragment.newInstance(sneaker), true, true)
                 }
             }
         }

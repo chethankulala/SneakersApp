@@ -38,41 +38,44 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         binding.llHome.setOnClickListener {
-            val fragment = fragmentManager.findFragmentById(R.id.fragment_container)
-            if (!it.isSelected) {
-                it.isSelected = true
-                binding.llCart.isSelected = false
-                addReplaceFragment(HomeFragment(), false, false)
-            } else {
-                addReplaceFragment(HomeFragment(), false, false)
-            }
+            selectHomeButton(it)
         }
         binding.llCart.setOnClickListener {
-            if (!it.isSelected) {
-                it.isSelected = true
-                binding.llHome.isSelected = false
-                addReplaceFragment(CartFragment(), false, false)
-            } else {
-                addReplaceFragment(CartFragment(), false, false)
-            }
+            selectCartButton(it)
         }
     }
 
 
-    fun selectHomeButton() {
-        binding.llHome.isSelected = !homeSelected
+    fun selectHomeButton(view: View) {
+        /*binding.llHome.isSelected = !homeSelected
         homeSelected = !homeSelected
         binding.llCart.isSelected = false
         cartSelected = false
-        addReplaceFragment(HomeFragment(), false, false)
+        addReplaceFragment(HomeFragment(), false, false)*/
+        val fragment = fragmentManager.findFragmentById(R.id.fragment_container)
+        if (!view.isSelected) {
+            view.isSelected = true
+            binding.llCart.isSelected = false
+            addReplaceFragment(HomeFragment(), false, false)
+        } else if(fragment is SneakerDetailsFragment || fragment is CartFragment) {
+            addReplaceFragment(HomeFragment(), false, false)
+        }
     }
 
-    fun selectCartButton() {
-        binding.llCart.isSelected = !cartSelected
+    fun selectCartButton(view: View) {
+        /*binding.llCart.isSelected = !cartSelected
         cartSelected = !cartSelected
         binding.llHome.isSelected = false
         homeSelected = false
-        addReplaceFragment(CartFragment(), false, false)
+        addReplaceFragment(CartFragment(), false, false)*/
+        val fragment = fragmentManager.findFragmentById(R.id.fragment_container)
+        if (!view.isSelected) {
+            view.isSelected = true
+            binding.llHome.isSelected = false
+            addReplaceFragment(CartFragment(), false, false)
+        } else if(fragment is SneakerDetailsFragment || fragment is HomeFragment) {
+            addReplaceFragment(CartFragment(), false, false)
+        }
     }
 
     private fun addReplaceFragment(
@@ -80,6 +83,9 @@ class MainActivity : AppCompatActivity() {
         addFragment: Boolean,
         addToBackStack: Boolean
     ) {
+        if (fragmentManager.backStackEntryCount > 0) {
+            fragmentManager.popBackStack()
+        }
         val transaction = fragmentManager.beginTransaction()
         if (addFragment) {
             transaction.add(R.id.fragment_container, fragment, fragment.javaClass.simpleName)

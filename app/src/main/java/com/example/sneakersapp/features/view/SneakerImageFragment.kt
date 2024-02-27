@@ -12,16 +12,9 @@ import com.example.sneakersapp.core.constant.AppConstant
 import com.example.sneakersapp.databinding.FragmentSneakerImageBinding
 import com.example.sneakersapp.features.model.Media
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [SneakerImageFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
 class SneakerImageFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var media: Media? = null
@@ -40,8 +33,6 @@ class SneakerImageFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
-        //return inflater.inflate(R.layout.fragment_sneaker_image, container, false)
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_sneaker_image, container, false)
         return binding.root
     }
